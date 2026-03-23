@@ -1,0 +1,107 @@
+{
+  "series": {
+    "card_type": "negative space",
+    "hide_season_text": false,
+    "template_ids": [],
+    "font_color": "{\"rgb(243, 219, 4)\" if watched else \"black\"}",
+    "source_files": [
+      "s1e7.jpg",
+      "s1e1.jpg",
+      "s1e8.jpg",
+      "s1e6.jpg",
+      "s1e5.jpg",
+      "backdrop.jpg",
+      "s1e3.jpg",
+      "s1e9.jpg",
+      "s1e4.jpg",
+      "s1e2.jpg"
+    ],
+    "extra_keys": [
+      "text_side"
+    ],
+    "extra_values": [
+      "random"
+    ]
+  },
+  "episodes": {
+    "s1e1": {
+      "auto_split_title": false,
+      "title": "We\\nis Us",
+      "match_title": false
+    },
+    "s1e2": {
+      "extra_keys": [
+        "text_side"
+      ],
+      "extra_values": [
+        "left"
+      ]
+    },
+    "s1e3": {
+      "extra_keys": [
+        "text_side"
+      ],
+      "extra_values": [
+        "right"
+      ]
+    },
+    "s1e4": {
+      "extra_keys": [
+        "text_side"
+      ],
+      "extra_values": [
+        "right"
+      ]
+    },
+    "s1e5": {
+      "extra_keys": [
+        "text_side"
+      ],
+      "extra_values": [
+        "left"
+      ]
+    },
+    "s1e6": {
+      "extra_keys": [
+        "text_side"
+      ],
+      "extra_values": [
+        "right"
+      ]
+    },
+    "s1e7": {
+      "extra_keys": [
+        "text_side"
+      ],
+      "extra_values": [
+        "right"
+      ]
+    },
+    "s1e8": {
+      "extra_keys": [
+        "text_side"
+      ],
+      "extra_values": [
+        "left"
+      ]
+    },
+    "s1e9": {
+      "extra_keys": [
+        "text_side"
+      ],
+      "extra_values": [
+        "left"
+      ]
+    }
+  },
+  "creator": "CollinHeist",
+  "description": [
+    "Negative Space card with some manually-assigned text alignment, and the color set to the Series' yellow. Includes Source Images for all Episodes.",
+    "Uses an alternate coloring for unwatched Episodes - I recommend setting the unwatched style setting to \"Art\" to use the included backdrop."
+  ],
+  "previews": [
+    "preview0.jpg",
+    "preview1.jpg"
+  ],
+  "created": "2026-03-23T16:45:20"
+}
