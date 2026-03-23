@@ -1,0 +1,29 @@
+{
+  "series": {
+    "font_id": 0,
+    "card_type": "star wars",
+    "extra_keys": [
+      "episode_text_color"
+    ],
+    "extra_values": [
+      "#fbfa12"
+    ],
+    "template_ids": [],
+    "font_color": "#fbfa12",
+    "source_files": []
+  },
+  "fonts": [
+    {
+      "name": "Clone Wars",
+      "file": "SFDistantGalaxy.ttf"
+    }
+  ],
+  "creator": "TheHesster",
+  "description": [
+    "Uses the Star Wars card type with a font very similar to the show's font. The text colour is set to the colour used for the show."
+  ],
+  "previews": [
+    "preview0.jpg"
+  ],
+  "created": "2026-03-23T16:11:54"
+}
