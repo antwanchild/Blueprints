@@ -12,7 +12,7 @@
     "extra_values": [
       "SEASON {to_cardinal(season_number)}",
       "0",
-      "{title_font}",
+      "{font_file}",
       "white",
       "4"
     ]

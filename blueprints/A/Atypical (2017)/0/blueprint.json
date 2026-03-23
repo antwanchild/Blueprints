@@ -11,7 +11,7 @@
     ],
     "extra_values": [
       "#fff",
-      "{title_font}",
+      "{font_file}",
       "title",
       "logo",
       "1.5"
