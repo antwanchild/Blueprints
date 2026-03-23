@@ -1,0 +1,29 @@
+{
+  "series": {
+    "font_id": 0,
+    "extra_keys": [
+      "stroke_color",
+      "episode_text_color"
+    ],
+    "extra_values": [
+      "white",
+      "{\"#f5dfd7\" if season_number == 2 else \"#edb664\"}"
+    ]
+  },
+  "templates": [],
+  "fonts": [
+    {
+      "name": "Smartypants",
+      "file": "Smartpants.otf",
+      "stroke_width": 0.05
+    }
+  ],
+  "creator": "annie-s-05",
+  "description": [
+    "Standard Cards with Smartypants font and colours matching the season posters."
+  ],
+  "previews": [
+    "preview0.jpg"
+  ],
+  "created": "2026-03-23T16:19:40"
+}

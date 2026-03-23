@@ -1,0 +1,47 @@
+{
+  "series": {
+    "match_titles": false,
+    "font_id": 0,
+    "card_type": "anime",
+    "season_title_ranges": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "season_title_values": [
+      "City Hunter",
+      "City Hunter 2",
+      "City Hunter 3",
+      "City Hunter '91"
+    ],
+    "extra_keys": [
+      "logo_size",
+      "logo_position"
+    ],
+    "extra_values": [
+      "1.5",
+      "top left"
+    ]
+  },
+  "fonts": [
+    {
+      "name": "City Hunter",
+      "file": "Invaders Italic.otf",
+      "size": 1.28,
+      "stroke_width": 1.22,
+      "title_case": "upper"
+    }
+  ],
+  "creator": "Jambopaul",
+  "description": [
+    "City Hunter (1987) anime series title cards with custom season titles."
+  ],
+  "previews": [
+    "preview0.jpg",
+    "preview1.jpg",
+    "preview2.jpg",
+    "preview3.jpg"
+  ],
+  "created": "2026-03-23T16:13:50"
+}
