@@ -14,7 +14,7 @@
     "extra_values": [
       "SEASON {season_number}",
       "10",
-      "{title_font}",
+      "{font_file}",
       "10",
       "center",
       "False"
