@@ -1,0 +1,39 @@
+{
+  "series": {
+    "font_id": 0,
+    "card_type": "standard",
+    "template_ids": [],
+    "source_files": [],
+    "season_title_ranges": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "season_title_values": [
+      "The Duke and I",
+      "The Viscount Who Loved Me",
+      "Romancing Mister Bridgerton",
+      "An Offer from a Gentleman"
+    ]
+  },
+  "fonts": [
+    {
+      "name": "Bridgerton",
+      "file": "Leaner-Bold.ttf",
+      "title_case": "source",
+      "vertical_shift": 20
+    }
+  ],
+  "creator": "Reicha7, CollinHeist",
+  "description": [
+    "Based on CollinHeist's blueprint but with the arc names for seasons."
+  ],
+  "previews": [
+    "preview0.jpg",
+    "preview1.jpg",
+    "preview2.jpg",
+    "preview3.jpg"
+  ],
+  "created": "2026-04-03T05:20:38"
+}
