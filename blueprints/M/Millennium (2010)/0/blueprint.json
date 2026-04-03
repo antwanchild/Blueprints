@@ -1,0 +1,75 @@
+{
+  "series": {
+    "font_id": 0,
+    "card_type": "shape",
+    "hide_season_text": false,
+    "hide_episode_text": true,
+    "season_title_ranges": [],
+    "season_title_values": [],
+    "extra_keys": [
+      "shape_color"
+    ],
+    "extra_values": [
+      "red"
+    ],
+    "template_ids": [],
+    "font_title_case": "source",
+    "font_size": 1.5,
+    "source_files": []
+  },
+  "episodes": {
+    "s1e1": {
+      "template_ids": [],
+      "title": "The Girl with the Dragon Tattoo",
+      "match_title": false,
+      "season_text": "Part 1"
+    },
+    "s1e2": {
+      "template_ids": [],
+      "title": "The Girl with the Dragon Tattoo",
+      "match_title": false,
+      "season_text": "Part 2"
+    },
+    "s1e3": {
+      "template_ids": [],
+      "title": "The Girl Who Played with Fire",
+      "match_title": false,
+      "season_text": "Part 1"
+    },
+    "s1e4": {
+      "template_ids": [],
+      "title": "The Girl Who Played with Fire",
+      "match_title": false,
+      "season_text": "Part 2"
+    },
+    "s1e5": {
+      "template_ids": [],
+      "auto_split_title": false,
+      "title": "The Girl Who Kicked the Hornets' Nest",
+      "match_title": false,
+      "season_text": "Part 1"
+    },
+    "s1e6": {
+      "template_ids": [],
+      "auto_split_title": false,
+      "title": "The Girl Who Kicked the Hornets' Nest",
+      "match_title": false,
+      "season_text": "Part 2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Millennium",
+      "file": "Unna-Regular.ttf",
+      "kerning": 2.0
+    }
+  ],
+  "creator": "TheHesster",
+  "description": [
+    "Uses the shape card with a font similar to the title font as well as some episode overrides to use the season text as the part number for the 2 parts episodes."
+  ],
+  "previews": [
+    "preview0.jpg"
+  ],
+  "created": "2026-04-03T05:24:12"
+}
