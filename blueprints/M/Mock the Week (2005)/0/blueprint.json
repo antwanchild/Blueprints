@@ -1,0 +1,37 @@
+{
+  "series": {
+    "font_id": 0,
+    "card_type": "divider",
+    "template_ids": [],
+    "auto_split_title": false,
+    "font_color": "white",
+    "source_files": [],
+    "extra_keys": [
+      "title_text_format",
+      "text_position",
+      "title_text_position"
+    ],
+    "extra_values": [
+      "{f'{NEWLINE}'.join(title_text.split(\", \" ))}",
+      "lower left",
+      "right"
+    ]
+  },
+  "fonts": [
+    {
+      "name": "Inter Medium",
+      "color": "black",
+      "file": "Inter-Medium.ttf"
+    }
+  ],
+  "creator": "Reicha7",
+  "description": [
+    "Based on similar Blueprint for Have I Got News for You this Divider Blueprint splits up the episode title to form a list of the guest stars.",
+    "Recommended that you edit the titles to just be comma separated or import from your Plex library as some seasons on the TVDb are not formatted correctly for this.",
+    "Episode title example: Milton Jones, Lou Sanders, Angela Barnes, Ed Byrne, Ahir Shah."
+  ],
+  "previews": [
+    "preview0.jpg"
+  ],
+  "created": "2026-04-03T05:25:45"
+}

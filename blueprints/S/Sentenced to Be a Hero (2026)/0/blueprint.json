@@ -1,0 +1,90 @@
+{
+  "series": {
+    "card_type": "anime fade",
+    "template_ids": [
+      0
+    ],
+    "source_files": [],
+    "episode_text_format": "Sentence {to_roman_numeral(episode_number)}",
+    "season_title_ranges": [
+      "1-100"
+    ],
+    "season_title_values": [
+      "Season {to_roman_numeral(season_number)}"
+    ]
+  },
+  "episodes": {
+    "s1e1": {
+      "title": "Kuvunji Forest Withdrawal Support",
+      "match_title": false
+    },
+    "s1e2": {
+      "title": "Spearhead the Recapture of the Zewan Gan Tunnels I",
+      "match_title": false
+    },
+    "s1e3": {
+      "title": "Spearhead the Recapture of the Zewan Gan Tunnels II",
+      "match_title": false
+    },
+    "s1e4": {
+      "title": "Mureed Fortress",
+      "match_title": false,
+      "episode_text": "Standby Order: {to_roman_numeral(episode_number)}"
+    },
+    "s1e5": {
+      "title": "Defense Against Corruption at Mureed Fortress I",
+      "match_title": false
+    },
+    "s1e6": {
+      "title": "Defense Against Corruption at Mureed Fortress II",
+      "match_title": false
+    },
+    "s1e7": {
+      "title": "Feigned Day Off at Port City Ioff",
+      "match_title": false
+    },
+    "s1e8": {
+      "title": "Undercover Investigation in District of Sodrick I",
+      "match_title": false
+    },
+    "s1e9": {
+      "title": "Undercover Investigation in District of Sodrick II",
+      "match_title": false
+    },
+    "s1e10": {
+      "title": "Aid In Evacuation of Ioff Cheg Port I",
+      "match_title": false
+    },
+    "s1e11": {
+      "title": "Aid In Evacuation of Ioff Cheg Port II",
+      "match_title": false
+    },
+    "s1e12": {
+      "title": "Ioff Cheg Port Evacuation and Rescue III",
+      "match_title": false,
+      "episode_text": "Punishment: {to_roman_numeral(episode_number)}"
+    }
+  },
+  "templates": [
+    {
+      "card_type": "anime",
+      "name": "Anime",
+      "translations": [
+        {
+          "language_code": "ja",
+          "data_key": "kanji"
+        }
+      ],
+      "extras": {},
+      "season_titles": {}
+    }
+  ],
+  "creator": "Cwavs",
+  "description": [
+    "Anime fade style card with numbers replaced with roman numerals, and episode text replaced with the prefix of the episode title."
+  ],
+  "previews": [
+    "preview0.jpg"
+  ],
+  "created": "2026-04-03T05:22:56"
+}
