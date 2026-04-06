@@ -91,7 +91,7 @@
       "logo_file"
     ],
     "extra_values": [
-      "/config/source/Survivor (2000)/logo_season{season_number}.webp"
+      "{source_directory}/logo_season{season_number}.webp"
     ],
     "source_files": [
       "logo_season36.webp",
