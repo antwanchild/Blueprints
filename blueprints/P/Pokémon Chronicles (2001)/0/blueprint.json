@@ -36,7 +36,7 @@
         "rgba(255,203,5,1)",
         "rgba(255,203,5,1)",
         "rgba(60,90,166,1)",
-        "/config/fonts/Pokemon.ttf",
+        "{font_file}",
         "350",
         "15",
         "1.5",
@@ -86,8 +86,7 @@
   "creator": "DeepDaddyTTV",
   "description": [
     "This is a continuation of my Pok\u00e9mon Complete Series Collection. It will match the sets I've released for the main Series. It uses episode ordering by TVDB (as the spinoff series are correctly ordered there).",
-    "Standard season title as the spinoff's don't have defined arcs. Uses the Pok\u00e9mon font and includes a colored drop shadow to match the series color scheme.",
-    "The Series' episode text Font should be changed to match your specific folder structure (defaults to /config/fonts/Pokemon.ttf)."
+    "Standard season title as the spinoff's don't have defined arcs. Uses the Pok\u00e9mon font and includes a colored drop shadow to match the series color scheme."
   ],
   "previews": [
     "preview0.jpg"

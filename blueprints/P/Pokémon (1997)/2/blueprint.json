@@ -102,7 +102,7 @@
         "rgba(255,203,5,1)",
         "rgba(255,203,5,1)",
         "rgba(60,90,166,1)",
-        "/config/fonts/Pokemon.ttf",
+        "{font_file}",
         "350",
         "15",
         "1.5",
@@ -152,7 +152,7 @@
   "creator": "DeepDaddyTTV",
   "description": [
     "Tinted Frame card which uses the TMDb episode ordering featuring all 1285 Episodes over 26 Seasons (and Specials). Each portion of the Series includes the name of the arc as the title with pre-defined seasons.",
-    "Uses the Pok\u00e9mon Font and includes a colored drop shadow to match the Series color scheme. The Series' episode text Font should be changed to match your specific folder structure (defaults to /config/fonts/Pokemon.ttf).",
+    "Uses the Pok\u00e9mon Font and includes a colored drop shadow to match the Series color scheme.",
     "I also replaced the first 10 source cards as they didn't look right with the Episode title from the show.",
     "This will match the Blueprints for the spinoff Series' as well."
   ],
