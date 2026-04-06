@@ -7,7 +7,7 @@
       "episode_text_font_size"
     ],
     "extra_values": [
-      "/config/assets/fonts/22/SpecialElite-Regular.ttf",
+      "{font_file}",
       "1.5"
     ],
     "season_title_ranges": [
@@ -29,8 +29,7 @@
   ],
   "creator": "Cwavs",
   "description": [
-    "Tinted Frame Plus with a similar font to the logo, and the part number instead of the season text.",
-    "You will need to manually set the \"Episode Text Font\" extra to the included Font file."
+    "Tinted Frame Plus with a similar font to the logo, and the part number instead of the season text."
   ],
   "previews": [
     "preview0.jpg"
