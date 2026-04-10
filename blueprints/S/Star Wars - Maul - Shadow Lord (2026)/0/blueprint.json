@@ -1,0 +1,22 @@
+{
+  "series": {
+    "card_type": "star wars",
+    "template_ids": [],
+    "font_color": "rgb(255, 0, 0)",
+    "source_files": [],
+    "extra_keys": [
+      "episode_text_color"
+    ],
+    "extra_values": [
+      "red"
+    ]
+  },
+  "creator": "Starpc",
+  "description": [
+    "The Star Wars card type with the font in red."
+  ],
+  "previews": [
+    "preview0.jpg"
+  ],
+  "created": "2026-04-09T23:07:13"
+}
